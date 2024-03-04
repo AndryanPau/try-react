@@ -1,0 +1,48 @@
+{
+  "data":[
+    {
+      "id":1,
+      "name":"Xiao Yan",
+      "age":20,
+      "element":"Heavenly Fire",
+      "cultivation":"Dou Zong",
+      "alchemyTier":"Tier 7",
+      "status":"alive",
+      "spouse":"Gu Xun Er",
+      "teacher":"Yao Lao",
+      "skill":"Buddha fury fire lotus",
+      "treasure":"Heavenly Flame",
+      "Sect":"Xiao Sect",
+      "continent":"Heaven and Earth Realms"
+    },
+    {
+      "id":2,
+      "name":"Gu Xun Er",
+      "age":19,
+      "element":"Ancient Sacred Fire",
+      "cultivation":"Dou Zong",
+      "alchemyTier":"--",
+      "status":"alive",
+      "spouse":"Xiao Yan",
+      "teacher":"Her Father",
+      "skill":"God's Palm",
+      "treasure":"Sacred Earing",
+      "Sect":"Ancient Gu Sect",
+      "continent":"Gu Realms"
+    },
+    {
+      "id":3,
+      "name":"Cai Lin",
+      "age":110,
+      "element":"Snake Sacred Fire",
+      "cultivation":"Dou Zong",
+      "alchemyTier":"--",
+      "status":"alive",
+      "spouse":"Xiao Yan",
+      "teacher":"Elder Sacred Snake",
+      "skill":"Sword of Sacred Snake",
+      "treasure":"Sacred Snake Sword",
+      "continent":"Heaven and Earth Realms"
+    }
+  ]
+}

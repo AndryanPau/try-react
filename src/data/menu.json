@@ -1,0 +1,19 @@
+{
+  "data":[
+    {
+      "id":1,
+      "name":"Article",
+      "path":"/articleList"
+    },
+    {
+      "id":2,
+      "name":"Table",
+      "path":"/table"
+    },
+    {
+      "id":3,
+      "name":"Test",
+      "path":"/test"
+    }
+  ]
+}
